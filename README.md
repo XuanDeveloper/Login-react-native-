@@ -173,4 +173,5 @@ Para suporte, envie um email para [seu-email@exemplo.com] ou abra uma issue no r
 ---
 
 Desenvolvido com ❤️ por [https://github.com/XuanDeveloper]
+---
 Musica que estava tocando [https://open.spotify.com/intl-pt/track/4bMpS5EYjAPHhZRWoEu7EV?si=283cd1c4dee04906]
